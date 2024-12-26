@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    padding-top: -150px;
+    height: 500px;
+    position: relative;
+    
+
+}
+
+.outer-div{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0%;
+    padding-top: 250px;
+    padding-bottom: 207px;
+    padding-right: 150px;
+    background-color: white;
+    height: 50%;
+    
+}
+
+main{
+    margin-left: 150px;
+    
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border: 10px lightgrey solid;
+    background-color: black;
+}
+
+main .inner-div{
+    margin-top: 20px;
+}
+.inner-div{
+    background-color: whitesmoke;
+    margin-left: 40px;
+    margin-right: 250px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+}
+.paragraph{
+    background-color: whitesmoke;
+}
+.heading{
+    background-color: #ff3aa5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    text-align: center ;
+    
+    
+}
